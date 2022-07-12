@@ -1,0 +1,272 @@
+[
+  {
+    "id" : "#001",
+    "name" : "Bulbasaur",
+    "type" : "Grass",
+    "height" : "2' 04''",
+    "weight" : "15.2 lbs",
+    "category" : "Seed",
+    "abilities" : "Overgrow"
+  },
+  {
+    "id" : "#002",
+    "name" : "Ivysaur",
+    "type" : "Grass",
+    "height" : "3' 03''",
+    "weight" : "28.7 lbs",
+    "category" : "Seed",
+    "abilities" : "Overgrow"
+  },
+  {
+    "id" : "#003",
+    "name" : "Venusaur",
+    "type" : "Grass",
+    "height" : "6' 07''",
+    "weight" : "220.5 lbs",
+    "category" : "Seed",
+    "abilities" : "Overgrow"
+  },
+  {
+    "id" : "#004",
+    "name" : "Charmander",
+    "type" : "Fire",
+    "height" : "2' 00''",
+    "weight" : "18.7 lbs",
+    "category" : "Lizard",
+    "abilities" : "Blaze"
+  },
+  {
+    "id" : "#005",
+    "name" : "Charmeleon",
+    "type" : "Fire",
+    "height" : "3' 07''",
+    "weight" : "41.9 lbs",
+    "category" : "Flame",
+    "abilities" : "Blaze"
+  },
+  {
+    "id" : "#006",
+    "name" : "Charizard",
+    "type" : "Fire",
+    "height" : "5' 07''",
+    "weight" : "199.5 lbs",
+    "category" : "Flame",
+    "abilities" : "Blaze"
+  },
+  {
+    "id" : "#007",
+    "name" : "Squirtle",
+    "type" : "Water",
+    "height" : "1' 08''",
+    "weight" : "19.8 lbs",
+    "category" : "Tint Turtle",
+    "abilities" : "Torrent"
+  },
+  {
+    "id" : "#008",
+    "name" : "Wartortle",
+    "type" : "Water",
+    "height" : "3' 03''",
+    "weight" : "49.6 lbs",
+    "category" : "Turtle",
+    "abilities" : "Torrent"
+  },
+  {
+    "id" : "#009",
+    "name" : "Blastoise",
+    "type" : "Water",
+    "height" : "5' 03''",
+    "weight" : "188.5 lbs",
+    "category" : "Shellfish",
+    "abilities" : "Torrent"
+  },
+  {
+    "id" : "#010",
+    "name" : "Caterpie",
+    "type" : "Bug",
+    "height" : "1' 00''",
+    "weight" : "6.4 lbs",
+    "category" : "Worm",
+    "abilities" : "Shield Dust"
+  },
+  {
+    "id" : "#011",
+    "name" : "Metapod",
+    "type" : "Bug",
+    "height" : "2' 04''",
+    "weight" : "21.8 lbs",
+    "category" : "Cocoon",
+    "abilities" : "Shed Skin"
+  },
+  {
+    "id" : "#012",
+    "name" : "Butterfree",
+    "type" : "Bug",
+    "height" : "3' 07''",
+    "weight" : "70.5 lbs",
+    "category" : "Butterfly",
+    "abilities" : "Compound Eyes"
+  },
+  {
+    "id" : "#013",
+    "name" : "Weedle",
+    "type" : "Bug",
+    "height" : "1' 00''",
+    "weight" : "7.1 lbs",
+    "category" : "Hairy Bug",
+    "abilities" : "Shield Dust"
+  },
+  {
+    "id" : "#014",
+    "name" : "Kakuna",
+    "type" : "Bug",
+    "height" : "2' 00''",
+    "weight" : "22.0 lbs",
+    "category" : "Cocoon",
+    "abilities" : "Shed Skin"
+  },
+  {
+    "id" : "#015",
+    "name" : "Beedrill",
+    "type" : "Bug",
+    "height" : "3' 03''",
+    "weight" : "65.0 lbs",
+    "category" : "Poison Bee",
+    "abilities" : "Swarm"
+  },
+  {
+    "id" : "#016",
+    "name" : "Pidgey",
+    "type" : "Normal",
+    "height" : "1' 00''",
+    "weight" : "4.0 lbs",
+    "category" : "Tiny Bird",
+    "abilities" : "Keen Eye, Tangled Feet"
+  },
+  {
+    "id" : "#017",
+    "name" : "Pidgeotto",
+    "type" : "Normal",
+    "height" : "3' 07''",
+    "weight" : "66.1 lbs",
+    "category" : "Bird",
+    "abilities" : "Keen Eye, Tangled Feet"
+  },
+  {
+    "id" : "#018",
+    "name" : "Pidgeot",
+    "type" : "Normal",
+    "height" : "4' 11''",
+    "weight" : "87.1 lbs",
+    "category" : "Bird",
+    "abilities" : "Keen Eye, Tangled Feet"
+  },
+  {
+    "id" : "#019",
+    "name" : "Rattata",
+    "type" : "Normal",
+    "height" : "1' 00''",
+    "weight" : "7.7 lbs",
+    "category" : "Mouse",
+    "abilities" : "Run Away, Guts"
+  },
+  {
+    "id" : "#020",
+    "name" : "Raticate",
+    "type" : "Normal",
+    "height" : "2' 04''",
+    "weight" : "40.8 lbs",
+    "category" : "Mouse",
+    "abilities" : "Run Away, Guts"
+  },
+  {
+    "id" : "#021",
+    "name" : "Spearow",
+    "type" : "Normal",
+    "height" : "1' 00''",
+    "weight" : "4.4 lbs",
+    "category" : "Tiny Bird",
+    "abilities" : "Keen Eye"
+  },
+  {
+    "id" : "#022",
+    "name" : "Fearow",
+    "type" : "Normal",
+    "height" : "3' 11''",
+    "weight" : "83.8 lbs",
+    "category" : "Beak",
+    "abilities" : "Keen Eye"
+  },
+  {
+    "id" : "#023",
+    "name" : "Ekans",
+    "type" : "Poison",
+    "height" : "6' 07''",
+    "weight" : "15.2 lbs",
+    "category" : "Snake",
+    "abilities" : "Shed Skin, Intimidate"
+  },
+  {
+    "id" : "#024",
+    "name" : "Arbok",
+    "type" : "Poison",
+    "height" : "11' 06''",
+    "weight" : "143.3 lbs",
+    "category" : "Cobra",
+    "abilities" : "Shed Skin, Intimidate"
+  },
+  {
+    "id" : "#025",
+    "name" : "Pikachu",
+    "type" : "Electric",
+    "height" : "1' 04''",
+    "weight" : "13.2 lbs",
+    "category" : "Mouse",
+    "abilities" : "Static"
+  },
+  {
+    "id" : "#026",
+    "name" : "Raichu",
+    "type" : "Electric",
+    "height" : "2' 07''",
+    "weight" : "66.1 lbs",
+    "category" : "Mouse",
+    "abilities" : "Static"
+  },
+  {
+    "id" : "#027",
+    "name" : "Sandshrew",
+    "type" : "Ground",
+    "height" : "2' 00''",
+    "weight" : "26.5 lbs",
+    "category" : "Mouse",
+    "abilities" : "Sand Veil"
+  },
+  {
+    "id" : "#028",
+    "name" : "Sandslash",
+    "type" : "Ground",
+    "height" : "3' 03''",
+    "weight" : "65.0 lbs",
+    "category" : "Mouse",
+    "abilities" : "Sand Veil"
+  },
+  {
+    "id" : "#029",
+    "name" : "Nidoran",
+    "type" : "Poison",
+    "height" : "1' 04''",
+    "weight" : "15.4 lbs",
+    "category" : "Poison Pin",
+    "abilities" : "Poison Point, Rivalry"
+  },
+  {
+    "id" : "#030",
+    "name" : "Nidorina",
+    "type" : "Poison",
+    "height" : "2' 07''",
+    "weight" : "44.1 lbs",
+    "category" : "Poison Pin",
+    "abilities" : "Poison Point, Rivalry"
+  }
+]
